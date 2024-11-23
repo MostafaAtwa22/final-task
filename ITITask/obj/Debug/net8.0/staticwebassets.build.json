@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "70425Rh25zdCdljVmni2pycLJ5rWG2cLTK5aLHRMJIc=",
+  "Source": "ITITask",
+  "BasePath": "_content/ITITask",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ITITask\\wwwroot",
+      "Source": "ITITask",
+      "ContentRoot": "D:\\programming\\Backend\\webapi\\day33\\ITITask\\ITITask\\wwwroot\\",
+      "BasePath": "_content/ITITask",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\programming\\Backend\\webapi\\day33\\ITITask\\ITITask\\wwwroot\\Departments.html",
+      "SourceId": "ITITask",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\programming\\Backend\\webapi\\day33\\ITITask\\ITITask\\wwwroot\\",
+      "BasePath": "_content/ITITask",
+      "RelativePath": "Departments.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Departments.html"
+    }
+  ]
+}

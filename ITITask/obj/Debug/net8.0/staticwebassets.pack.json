@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\programming\\Backend\\webapi\\day33\\ITITask\\ITITask\\wwwroot\\Departments.html",
+      "PackagePath": "staticwebassets\\Departments.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ITITask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ITITask.props",
+      "PackagePath": "build\\ITITask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ITITask.props",
+      "PackagePath": "buildMultiTargeting\\ITITask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ITITask.props",
+      "PackagePath": "buildTransitive\\ITITask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
